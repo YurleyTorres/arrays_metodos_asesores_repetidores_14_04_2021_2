@@ -26,7 +26,7 @@ for (let i = 0; i < Terrestres.length; i++) {
 lista.push(Terrestres);
 
 for (let i = 0; i < Aereos.length; i++) {
-    Aereos[i] = prompt(`Nombre del animal aerios ${i+1}`);
+    Aereos[i] = prompt(`Nombre del animal aereos ${i+1}`);
 }
 lista.push(Aereos);
 
@@ -86,7 +86,7 @@ switch (verOrdenLista) {
 // console.log(lista);
 
 // let array = ["A","B","C","D","E","F","G","H"];
-// array.fill("Miguel",3,7);
+// array.fill("Marly",3,7);
 // console.log(array);
 
 
@@ -116,7 +116,7 @@ switch (verOrdenLista) {
 // let i = -5, indice = ((array.length-1)+i);
 // while(true){
 //     if(array.keys%2==0){
-//         array.fill("Miguel",i, );
+//         array.fill("Marly",i, );
 //         indice--;
 //     }
 // }
